@@ -61,6 +61,9 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+<img width="959" height="599" alt="Screenshot 2026-06-13 152138" src="https://github.com/user-attachments/assets/962ca137-bc65-492c-99b0-f5e589855e65" />
+
+
 ## MongoDB Atlas Configuration
 
 Before running the project, replace the following line in `app.py`:
@@ -94,9 +97,18 @@ http://127.0.0.1:5000
 3. Data is stored in MongoDB Atlas.
 4. User is redirected to the success page displaying:
 
+<img width="959" height="570" alt="Screenshot 2026-06-13 154352" src="https://github.com/user-attachments/assets/4162e837-878a-49f8-93a9-bc5328c5edd0" />
+
+
 ```text
 Data submitted successfully
 ```
+<img width="959" height="570" alt="Screenshot 2026-06-13 154358" src="https://github.com/user-attachments/assets/05902c48-e1d0-4972-93e2-712c2328b046" />
+
+
+<img width="959" height="567" alt="Screenshot 2026-06-13 160414" src="https://github.com/user-attachments/assets/f8cb559c-bd89-4043-b4e7-5e60b5b41ff7" />
+
+
 
 ## Technologies Used
 
